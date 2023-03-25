@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Krfd
+- 👋 Hi, I’m Karl
 - 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning Java, C++, HTML and CSS
+- 🌱 I’m currently learning.....
 - 💞️ I’m looking for collaboration on peers, students or pro
 - 📫 How to reach me on https://www.facebook.com/ImAmaraaa
 
